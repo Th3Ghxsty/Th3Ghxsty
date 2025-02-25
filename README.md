@@ -1,9 +1,9 @@
 # Hi, I'm Th3ghxsty! 🔥
 
 ## 💻 About Me
-- 🎯 I'm a self-taught IT enthusiast with a BTEC in Digital Information Technology from high school and further college education in IT.
-- 🚀 Passionate about **Node.js, Python, C++, and C#**
-- 🌐 I also do some web development and can work with **HTML, CSS, and JavaScript**
+- 🎯 I'm a student currently progressing in IT to eventually be a full time game developer!
+- 🚀 I am passionate about Python, HTML and am currently on the road to learning C++
+- 🌐 I also do some web development and can work with HTML
 - 📚 Always learning about new technologies and coding techniques
 
 ## 📊 GitHub Stats & Most Used Languages
@@ -16,6 +16,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
